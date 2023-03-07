@@ -1,1 +1,4 @@
-# practice_2023
+```
+docker-compose build
+docker-compose up
+```
